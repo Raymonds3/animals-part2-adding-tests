@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnimalTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-13T12:06:41" hostname="umuzi-admin" time="0.005">
+<testsuite name="AnimalTests" tests="1" skipped="1" failures="0" errors="0" timestamp="2020-02-13T09:17:22" hostname="umuzi-admin" time="16448.843">
   <properties/>
-  <testcase name="TestCatSound" classname="AnimalTests" time="0.005"/>
-  <system-out><![CDATA[Meows
-]]></system-out>
+  <testcase name="TestCatSound" classname="AnimalTests" time="16448.843">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
