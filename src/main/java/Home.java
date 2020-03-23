@@ -7,8 +7,9 @@ public class Home {
         list.add(a);
     }
     public void makeAllSounds() {
-        for (Animal pet: list) {
+        for (Animal pet : list) {
             pet.sounds();
         }
     }
+
 }

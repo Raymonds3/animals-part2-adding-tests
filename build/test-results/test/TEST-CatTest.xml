@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CatTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-14T07:47:44" hostname="umuzi-admin" time="0.006">
-  <properties/>
-  <testcase name="TestCatSound" classname="CatTest" time="0.006"/>
-  <system-out><![CDATA[Meows
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
